@@ -47,6 +47,9 @@ label {
   padding: 0.625rem;
   resize: vertical;
 }
+textarea {
+  resize: none;
+}
 .submit-button {
   display: block;
   width: 100%;
